@@ -18,8 +18,8 @@ This Power BI dashboard answers questions like:
 - A notable percentage of people find it "Difficult" to break into data roles.
 
 ## 🖼️ Dashboard Preview
+![Dashboard Preview](dashboard_preview_pbi.png)
 
-![Dashboard Screenshot](Screenshot.png)
 
 ## 📁 Files in this Repo
 - `pbi final project.pbix` – Main Power BI report
